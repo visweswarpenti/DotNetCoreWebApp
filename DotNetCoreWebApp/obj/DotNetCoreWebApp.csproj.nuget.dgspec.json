@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj": {}
+    "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj": {
+    "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+        "projectUniqueName": "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
         "projectName": "DotNetCoreWebApp",
-        "projectPath": "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+        "projectPath": "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
         "packagesPath": "C:\\Users\\vp185097\\.nuget\\packages\\",
-        "outputPath": "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\obj\\",
+        "outputPath": "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vp185097\\AppData\\Roaming\\NuGet\\NuGet.Config",

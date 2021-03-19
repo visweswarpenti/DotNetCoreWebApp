@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/w05zk4DIPQ5qqATa78V9xLMUrh2bIR3UHa/BwEV/lDhkGB8qn2WKBaSMrE3jNB6/Q3lBr626OL4rShNGUnUA==",
+  "dgSpecHash": "/LV2cEL5bSqi1mtkv/uHvS/m7z0WBqN4mC3jGAvOTP/pD+srMIoxa5LlxDzCBFspp7UKkkeGtiM/zrJbklrxDQ==",
   "success": true,
-  "projectFilePath": "C:\\Azure\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
+  "projectFilePath": "C:\\AzurePractice\\AzureWebHosting\\DotNetCoreWebApp\\DotNetCoreWebApp\\DotNetCoreWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
